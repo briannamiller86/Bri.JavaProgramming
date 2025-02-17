@@ -6,7 +6,8 @@ The code below executes simple print statements responding to "D1 - First Java p
 No AI was used to complete this assignment.
 
 Revision Log:
-First revision (2/16/2025): Added functionality to prompt the user for their details (Name, Major, Plans after graduation, Fun Fact) and display their introduction.
+First revision (1/19/2025): Added introduction of myself.
+Second revision (2/16/2025): Added functionality to prompt the user for their details (Name, Major, Plans after graduation, Fun Fact) and display their introduction.
 */
 
 import java.util.Scanner;
